@@ -13,9 +13,12 @@
 
 <br />
 
-### Desktop Preview
-
-
-
-
 # Aurban-Real-Estate-Website-With-Reactjs
+
+![real_state1](https://github.com/abiribahullas7766/Aurban-Real-Estate-Website-With-Reactjs/assets/54986400/b597595b-795b-4188-9230-9cbc585b85a7)
+
+
+![real_state_2](https://github.com/abiribahullas7766/Aurban-Real-Estate-Website-With-Reactjs/assets/54986400/afacae08-5017-45e9-992b-56fef229412f)
+
+
+
